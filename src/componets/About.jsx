@@ -74,7 +74,7 @@ function About() {
                     <h2 ref={titleRef} className="text-4xl md:text-5xl font-bold mb-4">About Me</h2>
                     <div ref={lineRef} className='h-1 w-20 gradient-bg text-center mx-auto'></div>
                 </div>
-                <div ref={cardsRef} className='grid grid-cols-3 gap-8'>
+                <div ref={cardsRef} className='grid md:grid-cols-3 gap-8'>
                     {Skills.map((skill, index) => {
                         const Icon = skill.icon;
                         return (

@@ -1,16 +1,46 @@
-# React + Vite
+# 💼 Personal Portfolio – Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal **portfolio website landing page**, where I showcase my projects, skills, and learning journey as a web developer.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 About the Project
 
-## React Compiler
+This portfolio is designed to represent me as a developer.  
+It includes information about my skills, projects, and a way to contact me.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The goal of this project was to build a professional online presence and improve my frontend development skills.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- 👨‍💻 About Me section  
+- 🛠️ Skills showcase  
+- 📂 Projects section  
+- 📱 Fully responsive design  
+- ⚡ Clean and modern UI  
+
+---
+
+## 🧠 What I Learned
+
+- Designing a personal portfolio  
+- Structuring a professional website  
+- Improving UI/UX skills  
+- Making responsive layouts  
+- Writing cleaner and reusable code  
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js  
+- JavaScript
+- Tailwind CSS / CSS  
+
+---
+
+## 📸 Preview
+<img width="1904" height="992" alt="image" src="https://github.com/user-attachments/assets/817e59e9-3dbd-4221-a17b-8b532655e51a" />
+
